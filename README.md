@@ -1,12 +1,35 @@
-👋 Hi there! I am Promise Sylvester Adiaha, a Frontend Developer and aspiring Data Scientist passionate about using technology to solve real-world problems.
+# Hi, I am Promise Sylvester
 
-I enjoy building user-friendly web interfaces with React, TailwindCSS, and JavaScript and exploring the world of Python, AI, and Data Science through hands-on projects.
+I build things for the web, clean, accessible, responsive things,
+mostly with **React, JavaScript, HTML/CSS**, and a dash of stubbornness 
+because bugs must not win.
 
-I believe in continuous learning and creating solutions that make an impact, from analyzing Netflix data with Python to building smart interfaces that bring data to life.
+I am also currently expanding into **Data Science**, learning how to 
+manipulate real-world datasets, visualize insights, and scrape the internet 
+(with permission, of course 👀).
 
-💻 Currently: Expanding my AI and data visualization skills <br/>
-🎯 Open to: Internships and collaborative tech projects <br/>
-⚙️ Tech Stack: React.js | TailwindCSS | Python | Pandas | Matplotlib | Git <br/>
+## 🛠 Technologies I work with
+- React, JavaScript, HTML, CSS  
+- APIs, WordPress, SEO, Figma  
+- Python (NumPy, Pandas, Matplotlib), Web Scraping  
+- Data cleaning, transformation, visualization  
+
+##  How I collaborate in fast-paced environments
+- I communicate clearly and early (no silent blockers here).  
+- I break complex tasks into small, trackable steps that keep teams aligned.  
+- I ask questions, share context, and document everything so nobody gets lost.  
+- I support teammates, give constructive feedback, and take feedback just as well.  
+- I stay flexible, priorities change, and I am great at turning the shift into momentum.  
+- I keep morale high with energy, creativity, and… occasionally, memes.
+
+##  What drives me
+Curiosity. Improvement. Building things with people who care about quality.  
+Whether it is frontend engineering or data exploration, I enjoy solving 
+problems and leaving codebases cleaner than I found them.
+
+## 🚀 Let's collaborate
+If you love clean code, great teamwork, and ambitious ideas,
+you are in the right place.  
 
 
 
